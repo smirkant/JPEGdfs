@@ -25,4 +25,5 @@ JPEGdfs --- JPEG decoder from scratch.
    -- It is the first working version.
    -- It can only decode baseline DCT with 3 component(Y,Cb,Cr) and a 
       4:2:0 subsampling JFIF file.
+   -- It is slow.
    -- But it's ready to hack.
