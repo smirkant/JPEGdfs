@@ -1,4 +1,3 @@
-
 JPEGdfs --- JPEG decoder from scratch.
 
 1. What is JPEGdfs ?
@@ -8,7 +7,7 @@ JPEGdfs --- JPEG decoder from scratch.
 
    There are many docs describe the JPEG standard or how to design a JPEG
    decoder. But most of them are only 'docs', not working programs. When 
-   come to practise, it still hard for the newbie to implement a JPEG 
+   come to practise, it is still hard for the newbie to implement a JPEG 
    decoder. This is what JPEGdfs about, to implement a JPEG decoder from
    scratch.
 
@@ -24,7 +23,6 @@ JPEGdfs --- JPEG decoder from scratch.
 
 4. About current version.
    -- It is the first working version.
-   -- It is buggy !!!
    -- It can only decode baseline DCT with 3 component(Y,Cb,Cr) and a 
       4:2:0 subsampling JFIF file.
    -- But it's ready to hack.
